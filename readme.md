@@ -41,4 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=superhoridev&show_icons=true&locale=en" alt="superhoridev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superhoridev&" alt="superhoridev" /></p>
-<p><img align="center" src="https://lanyard.cnrad.dev/api/299596520410447873?idleMessage=Too lazy right now!" alt="superhoridev" /></p>
+<p><img align="center" src="https://lanyard.cnrad.dev/api/299596520410447873?idleMessage=Too%20lazy%20right%20now!" alt="299596520410447873" /></p>
