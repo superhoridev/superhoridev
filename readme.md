@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Assembly, PHP**
 
-- 📝 If you're interested about some projects im working on you can visit [MythicalSystems](https://github.com/MythicalLTD)
+- 📝 If you're interested about some projects im working on you can visit [RHQHosting](https://rhqhosting.com)
 
 - 💬 Ask me about **PHP, SQL, Lua**
 
